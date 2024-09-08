@@ -7,6 +7,6 @@ variable "bundle_id" {
   
 }
 variable "availability_zone" {
-    default = "us-eat-1a"
+    default = "us-east-1a"
   
 }

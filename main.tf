@@ -6,3 +6,4 @@ resource "aws_lightsail_instance" "server1" {
   key_pair_name     = "lamp"
   user_data         = file("resume.sh")
 }
+
